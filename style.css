@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img1 {
+    width: auto;
+  max-width: 25%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.img2 {
+    width: auto;
+  max-width: 25%;
+  height: auto;
+  border-radius: 4px;
+
+}
+
+hr {
+    width: 650px;
+}
+
+.img3 {
+    width: auto;
+  max-width: 25%;
+  height: auto;
+  border-radius: 4px;
+
+}
+
+.img4 {
+    width: auto;
+  max-width: 25%;
+  height: auto;
+  border-radius: 4px;
+
+}
+
+.img5 {
+    width: auto;
+  max-width: 25%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.vote {
+    width: 140px;
+    height: 45px;
+    border: none;
+    color: white;
+    background-color: #0077b5;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 rgb(255, 255, 255);
+    transition: ease-out 0.3s;
+    outline: none;
+}
+
+.vote:hover {
+    box-shadow: inset 300px 0 0 0 rgb(255, 255, 255);
+    cursor: pointer;
+    color: #000;
+}
